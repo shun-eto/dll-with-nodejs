@@ -1,0 +1,23 @@
+{
+  "name": "dll-with-nodejs",
+  "version": "1.0.0",
+  "description": "## 参考リンク <VSCodeを使ったdllの作成> - http://www.toshioblog.com/archives/26678460.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shun-eto/dll-with-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shun-eto/dll-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/shun-eto/dll-with-nodejs#readme",
+  "dependencies": {
+    "ffi-napi": "^4.0.3",
+    "node-gyp": "^9.0.0"
+  }
+}
